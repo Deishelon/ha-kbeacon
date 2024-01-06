@@ -1,0 +1,11 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "k_addr": "Bluetooth Device Address (i.e BC:57:29:02:45:47)"
+        }
+      }
+    }
+  }
+}
